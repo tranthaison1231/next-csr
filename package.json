@@ -14,14 +14,22 @@
     "singleQuote": true
   },
   "dependencies": {
+    "@ant-design/cssinjs": "^1.3.0",
+    "@ant-design/icons": "^4.8.0",
+    "@ant-design/pro-card": "^2.1.6",
+    "@ant-design/pro-layout": "7.4.0",
+    "@apollo/client": "3.7.3",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@enouvo/react-hooks": "^0.1.2",
+    "antd": "5.1.1",
+    "axios": "1.2.1",
     "clsx": "1.2.1",
-    "concurrently": "7.6.0",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "6.0.0-beta.2",
-    "styled-jsx": "5.1.1",
-    "use-count-up": "3.0.1"
+    "react-i18next": "12.1.1"
   },
   "devDependencies": {
     "@types/node": "18.11.18",
