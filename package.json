@@ -5,8 +5,7 @@
     "build": "next build && next export -o build/",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
-    "postinstall": "npm run tailwind"
+    "format": "prettier --write \"**/*.{js,ts,tsx,md}\""
   },
   "prettier": {
     "arrowParens": "always",
